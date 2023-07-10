@@ -24,3 +24,11 @@ Ans:
   Training and predicting the model.
   Calculated the mean_squared error
   Visualized both train and test data using scatter plot
+
+## Document
+Document Describing about ICP-1  
+[Document](https://drive.google.com/file/d/1ibjK2bYu4TNRhDdDQ8CgDcpqJbTuFOpn/view?usp=sharing)
+
+## Video
+Video on demonstration of the ICP-1  
+[Video](https://drive.google.com/file/d/1WCDY-_UuIK273xYXCJZfQTWNnCZsPY73/view?usp=sharing)
