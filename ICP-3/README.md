@@ -10,14 +10,14 @@
 
 
 ## Short Description:
-The code generates two graphs to visualize the training process and performance of a CNN model. 
-The first graph plots the training and validation loss over epochs, helping to monitor the model's learning progress. 
-The second graph displays the training and validation accuracy, indicating how well the model is classifying the images. 
-These visualizations aid in assessing the model's performance during training and identifying potential overfitting or underfitting. 
-The graphs provide valuable insights into the CNN's behavior and can guide further adjustments to improve its performance. 
-It uses the 'history' object to plot the model's training and validation loss. 
-The x-axis is labeled as 'Epoch', and the y-axis is labeled as 'Loss'. 
-A legend is added to the upper right corner of the plot to distinguish between training and validation loss. 
+The code generates two graphs to visualize the training process and performance of a CNN model.  
+The first graph plots the training and validation loss over epochs, helping to monitor the model's learning progress.  
+The second graph displays the training and validation accuracy, indicating how well the model is classifying the images.  
+These visualizations aid in assessing the model's performance during training and identifying potential overfitting or underfitting.  
+The graphs provide valuable insights into the CNN's behavior and can guide further adjustments to improve its performance.  
+It uses the 'history' object to plot the model's training and validation loss.  
+The x-axis is labeled as 'Epoch', and the y-axis is labeled as 'Loss'.  
+A legend is added to the upper right corner of the plot to distinguish between training and validation loss.  
 
 ## Document
 Document Describing about ICP-3  
