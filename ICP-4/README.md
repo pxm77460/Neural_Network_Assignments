@@ -21,8 +21,8 @@
 
 ## Document
 Document Describing about ICP-4  
-[Document](https://docs.google.com/document/d/17r1gWQ8YgOMJkl0rywgU0HBDmeegbh7W/edit?usp=sharing&ouid=116297738906248482727&rtpof=true&sd=true)
+[Document](https://docs.google.com/document/d/1PiwkG0wHV6CwagGHH47MaZZec0YxXqDa/edit?usp=sharing&ouid=116297738906248482727&rtpof=true&sd=true)
 
 ## Video
 Video on demonstration of the ICP-4  
-[Video](https://drive.google.com/file/d/1QB8wa1PaH51I6DyFA28dp-TDiiOk6nDb/view?usp=sharing)
+[Video](https://drive.google.com/file/d/1bEkuZy6mouNXjTSZf9YbVlPG1xDAPHA7/view?usp=sharing)
