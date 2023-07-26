@@ -18,7 +18,6 @@
 - This code constructs and trains an autoencoder model on the Fashion MNIST dataset, teaching it to remove noise from images.  
 - Post-training, it visualizes denoised images and plots the model's performance metrics over the training period. 
  
-
 ## Document
 Document Describing about ICP-4  
 [Document](https://docs.google.com/document/d/1PiwkG0wHV6CwagGHH47MaZZec0YxXqDa/edit?usp=sharing&ouid=116297738906248482727&rtpof=true&sd=true)
